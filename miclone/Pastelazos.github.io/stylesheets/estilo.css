@@ -1,0 +1,80 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('https://secure.static.tumblr.com/ea40ccc317031920903b3ce459bc2cdf/llrsrfq/eL4n2u8oc/tumblr_static_wiese.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+
+
+.learn-more img {
+	width: 80%;
+	height: 60%;
+}
+.publicidad{
+  display: inline;
+}
+.publicidad .informacion {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:80%;
+    float:left;
+    padding:5px;
+}
+
+.publicidad .pasteles  {
+ width:20%;
+   height:300px;
+    float:left;
+    padding:10px;
+    background: #a32;
+}
+
+.pasteles img {
+  width: 200px;
+  height:200px;
+  padding: 30px;
+}
