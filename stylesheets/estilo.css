@@ -11,7 +11,7 @@
 }
 
 .jumbotron {
-  background-image:url('http://goo.gl/04j7Nn');
+  background-image:url('https://secure.static.tumblr.com/ea40ccc317031920903b3ce459bc2cdf/llrsrfq/eL4n2u8oc/tumblr_static_wiese.jpg');
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -52,4 +52,29 @@
 .learn-more img {
 	width: 80%;
 	height: 60%;
+}
+.publicidad{
+  display: inline;
+}
+.publicidad .informacion {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:80%;
+    float:left;
+    padding:5px;
+}
+
+.publicidad .pasteles  {
+ width:20%;
+   height:300px;
+    float:left;
+    padding:10px;
+    background: #a32;
+}
+
+.pasteles img {
+  width: 200px;
+  height:200px;
+  padding: 30px;
 }
